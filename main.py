@@ -14,7 +14,7 @@ def display_info(event=None):
     School: {school} <br>
     <br>
     <div class='result-title notes-title'>More Info</div>
-    <span class='notes'>\t My name is{name}, I am \"{age}\" years old and I study at {school}. Thank you for getting to know me!</span>
+    <span class='notes'>\t My name is {name} I am \"{age}\" years old and I study at {school} Thank you for getting to know me!</span>
     """
 
 #to show the result in the output div
